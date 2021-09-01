@@ -1,6 +1,6 @@
  - 👋 Hi, I’m William Schulz aka @williamkosteleckyschulz
  - 👀 I’m interested in Computer Science 
- -    I study Programming & Business at UCL
+ -    I study Computing & Management at UCL
 
 
 <!---
